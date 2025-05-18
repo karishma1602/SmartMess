@@ -1,2 +1,2 @@
+#This is content from GitHub
 # SmartMess
-An Android app for managing mess menu, attendance using Firebase.
